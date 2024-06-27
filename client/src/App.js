@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import StockPage from './StockPage';
 import SentimentAnalysis from './SentimentAnalysis';
 import NewsletterSignup from './NewsletterSignup';
+import './App.css';
 
 function App() {
   return (
